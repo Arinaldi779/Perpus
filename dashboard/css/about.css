@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: aliceblue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;  
+    border-radius: 10%;
+    background-color: black;
+    /* background-color: white; */
+}
+
+img.img1 {
+    width: 198px;
+    margin-right: 10px;
+}
+
+img.img2 {
+
+}
+
+img.img3 {
+    
+}
+
+img.img4 {
+
+}
+
+img.img5 {
+
+}
+
+img.img6 {
+    width: 202px;
+    margin-right: 15px;
+}
+
+p {
+    color: white;
+    width: 200px;
+}
+
+hr {
+    width: 50px;
+    color: w
+}
+
+span.span1 {
+    color: aqua;
+}
+
+span.span2 {
+    color: blue;
+}
+
+span.span3 {
+    color: yellow;
+}
+
+span.span4 {
+color: blueviolet;
+}
+
+span.span5 {
+color: red;
+}
+
+span.span6 {
+color: yellowgreen;
+}
+
+div.tulisan {
+    /* background:url("../img/neko.jpg") ; */
+    background-color: aliceblue;
+}
+
+.tulisan p {
+    color: black;
+}
+
+a.haha {
+    margin-left: 100px;
+    margin-bottom: 400px;
+}
+
+div.haha {
+    padding-left: 10px;
+    color: black;
+    margin-left: 62px;
+    margin-right: 61px;
+}
+
+div.haha p {
+    color: black;
+}

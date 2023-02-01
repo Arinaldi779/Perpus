@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url(desc.jpg);
+    background-color:rgb(129, 198, 243);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+  
+p {
+  color: #FFF8DC;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 10px;
+  background: transparent;
+}
+
+h1 {
+    color: #FFF8DC;
+    text-align: center;
+    padding-bottom: 20px;
+    background: transparent;
+}
+
+a {
+  background: transparent;
+  color: #D3D3D3;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    color: #FFF8DC;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+    background: transparent;
+  }
+
+.containerlogin{
+    color: #25167c;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 25px;
+    width: 300px;
+    background: transparent;
+    background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px #25167c ;
+    border-radius: 10px;
+}
+.containerlogin h1{
+    text-align: left;
+    color: #0e0d0d;
+    margin-bottom: 30px;
+    border-bottom: 5px solid#1d1d1d;
+    background: transparent;
+
+}
+.containerlogin label{
+    text-align: left;
+    color: #0c0c0c;
+
+}
+.containerlogin form input{
+    background: transparent;
+    width: calc(100% - 20px);
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: 1px solid #fafafa;
+    color: #fafafa;
+    font-size: 20px;
+}
+.containerlogin form button{
+    width: 100%;
+    height: 40px;
+    padding: 5px 0;
+    border: none;
+    background: transparent;
+    background-color:#708090;
+    font-size: 18px;
+    color: #fafafa;
+    border-radius: 20px;
+}
+.table1 {
+    color: #25167c;
+}

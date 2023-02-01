@@ -1,0 +1,4 @@
+username 	=	admin123
+pass		=	12345
+
+Input Anggota hanya dilakukan oleh user itu sendiri,tidak bisa di isi oleh admin.

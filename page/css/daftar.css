@@ -1,0 +1,111 @@
+body {
+    background-color: #343336;
+    background: url("../img/papanTulis.jpg");
+}
+
+div.container {
+    border-radius: 20px;
+    background-color: aliceblue;
+    background: url("../img/paper.jpg");
+    margin-top: 30px;
+    border: 2px solid black;
+    height: 500px;
+    width: 100%;
+    padding: 30px;
+    overflow:auto;
+}
+
+img.img {
+    /* border: 2px solid black;
+    border-radius: 20px; */
+    padding: 75px 75px 75px 75px; 
+}
+
+img.img2 {
+    padding: 100px 75px 75px 100px;
+    margin-top: 160px;
+}
+
+img.img3 {
+    padding: 100px 75px 75px 75px;
+    margin-top: 50px;
+}
+
+#toggle {
+    position: absolute;
+    bottom: 4px;
+    right: 7px;
+    width: 30px;
+    height: 30px;
+    background: url(../img/show.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+
+#toggle.hide {
+    background: url(../img/hide.png);
+    background-size: cover;
+}
+
+#togglee {
+    position: absolute;
+    bottom: 4px;
+    right: 7px;
+    width: 30px;
+    height: 30px;
+    background: url(../img/show.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+
+#togglee.hide {
+    background: url(../img/hide.png);
+    background-size: cover;
+}
+
+button.btn {
+    font-family: Montserrat-Bold;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #fff;
+    text-transform: uppercase;
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    background: #19a900;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}   
+
+button.btn-success {
+    background-color: rgb(3, 215, 17);
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+div.vertical {
+    border-radius: 30px;
+}
+
+/* form.form {
+    background: url("../img/white.jpg");
+    border: 2px solid transparent;
+    border-radius: 15px;
+    padding: 20px;
+} */
